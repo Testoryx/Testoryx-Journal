@@ -45,7 +45,7 @@ I am a **passionate QA tester** focused on delivering high-quality software. Thi
 ## 🚀 Connect With Me
 
 - GitHub: [https://github.com/Testoryx/Testoryx-Journal]
--  LinkedIn: [Your LinkedIn Profile URL]  
+- LinkedIn:[https://www.linkedin.com/in/testoryx-studio-2285bb399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 - Instagram: [Your Instagram Account URL]  
 
 ---
